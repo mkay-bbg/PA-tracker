@@ -1,0 +1,11 @@
+# local environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# personal data and generated output: keep out of the repo
+pa_positions.csv
+pa_events.csv
+pa_futu_cache_*.pkl
+pa_weekly_brief_*.html
